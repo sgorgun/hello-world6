@@ -92,19 +92,6 @@ If a compiler error or warning message is not clear, [review errors details](htt
 1. Rebuild the solution.
 2. Fix all compiler warnings and errors.
 3. Run all unit tests, make sure all unit tests completed successfully.
-4. Review all changes, make sure the only code files (.cs) in HelloWorld project have changes.
-
-![Git Changes](images/git-changes-good.png)
-
-No changes in project files (.csproj) or in HelloWorld.Tests project.
-
-![Git Changes](images/git-changes-bad.png)
-
-5. Stage your changes, and create a commit.
-
-![Commit and Push](images/git-changes-commit-and-push.png)
-
-6. Push your changes to remote repository.
 
 
 ## See also
