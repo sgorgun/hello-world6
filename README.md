@@ -11,7 +11,7 @@ The task requires .NET 6 SDK.
 
 ## Task Description
 
-The task has no coding work, just only Visual Studio work.
+This task doesn’t require coding. The goal is to get familiar with basic functions of Visual Studio.
 
 1. Open a [Solution Explorer](https://docs.microsoft.com/en-us/visualstudio/ide/solutions-and-projects-in-visual-studio#solution-explorer).
     * Click on the menu item - _View\Solution Explorer_.
@@ -19,27 +19,27 @@ The task has no coding work, just only Visual Studio work.
 
 ![View Solution Explorer](images/view-solution-explorer.png)
 
-2. Find "HelloWorld" and "HelloWorld.Tests" projects in the Solution Explorer view.
+2. Find the "HelloWorld" and "HelloWorld.Tests" projects in the Solution Explorer view.
 
 ![Solution Explorer](images/solution-explorer.png)
 
-3. Open the "HelloWorld" project and find [SimpleHelloWorld.cs](HelloWorld/SimpleHelloWorld.cs) file in the project. Open the file in the editor window.
+3. Open the "HelloWorld" project and find the [SimpleHelloWorld.cs](HelloWorld/SimpleHelloWorld.cs) file in the project. Open the file in the editor window.
 
 ![SimpleHelloWorld.cs](images/simple-hello-world.png)
 
-4. Open the "HelloWorld.Tests" project and find [SimpleHelloWorldTests.cs](HelloWorld.Tests/SimpleHelloWorldTests.cs) file in the project. Open the file in editor window.
+4. Open the "HelloWorld.Tests" project and find [SimpleHelloWorldTests.cs](HelloWorld.Tests/SimpleHelloWorldTests.cs) file in the project. Open the file in the editor window.
 
 ![SimpleHelloWorldTests.cs](images/simple-hello-world-tests.png)
 
 5. [Build the solution](https://docs.microsoft.com/en-us/visualstudio/ide/building-and-cleaning-projects-and-solutions-in-visual-studio).
-    * Click on menu item - _Build\Build Solution_.
-    * Or use default keyboard shortcut - _Ctrl+Shift+B_.
+    * Click on the menu item - _Build\Build Solution_.
+    * Or use the default keyboard shortcut - _Ctrl+Shift+B_.
 
 ![Build Solution](images/build-solution.png)
 
 6. Open the [Error List](https://docs.microsoft.com/en-us/visualstudio/ide/find-and-fix-code-errors#review-the-error-list) view.
-    * Click on menu item - _View\Error List_.
-    * Or use default shortcut - _Ctrl+\\, E_.
+    * Click on the menu item - _View\Error List_.
+    * Or use the default shortcut - _Ctrl+\\, E_.
 
 ![View Error List](images/view-error-list.png)
 
@@ -53,20 +53,20 @@ Make sure there are no compiler issues (warnings or errors).
 
 ![Test Explorer](images/test-test-explorer.png)
 
-All tests in the test list are have blue icon with white exclamation mark. That tell us the unit tests were not run.
+All tests in the test list have blue icon with a white exclamation mark. It means that the unit tests were not run.
 
 ![Test Explorer](images/test-explorer-white.png)
 
-8. Right click on "HelloWorld.Tests" list item and click on "Run" menu item.
+8. Right click on the "HelloWorld.Tests" list item and click on the "Run" menu item.
     * Or use the default shortcut - _Ctrl+R, T_.
 
 ![Run Tests](images/run-tests.png)
 
-All list items should be marked "green".
+All list items should be marked "GREEN".
 
 ![Test Explorer](images/test-explorer-green.png)
 
-9. Unfold the list in Test Explorer (if necessary), right click on "ReturnHelloWorld" unit test, and click on "Run" menu item. The selected list item should stay "green".
+9. Unfold the list in the Test Explorer (if necessary), right click on the "ReturnHelloWorld" unit test, and click on the "Run" menu item. The selected list item should remain "GREEN".
     * Or use the default shortcut - _Ctrl+R, T_.
 
 ![Run Test](images/run-test.png)
@@ -77,7 +77,7 @@ All list items should be marked "green".
 
 ![Run All Tests](images/run-all-tests.png)
 
-You can go to AutoCode portal, open the task page, and click on the "Check task" button.
+You can go to the AutoCode portal, open the task page, and click on the "Check task" button.
 
 
 ## Fix Compiler Issues
