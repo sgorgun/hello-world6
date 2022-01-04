@@ -4,7 +4,7 @@ Beginner level task for practicing AutoCode task management and running unit tes
 
 Translations: [Russian](README-RU.md).
 
-Estimated time to complete the task - 1h.
+Estimated time to complete the task - 0.5h.
 
 The task requires .NET 6 SDK installed.
 
