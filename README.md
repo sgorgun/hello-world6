@@ -1,12 +1,12 @@
 # Hello, world!
 
-A beginner level task for practicing AutoCode task management and running unit tests in Visual Studio.
+Beginner level task for practicing AutoCode task management and running unit tests in Visual Studio.
 
 Translations: [Russian](README-RU.md).
 
 Estimated time to complete the task - 1h.
 
-The task requires .NET 6 SDK.
+The task requires .NET 6 SDK installed.
 
 
 ## Task Description
