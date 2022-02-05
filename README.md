@@ -77,22 +77,6 @@ All list items should be marked "GREEN".
 
 ![Run All Tests](images/run-all-tests.png)
 
-You can go to the AutoCode portal, open the task page, and click on the "Check task" button.
-
-
-## Fix Compiler Issues
-
-Additional style and code checks are enabled for the projects in this solution to help you maintaining consistency of the project source code and avoiding silly mistakes. [Review the Error List](https://docs.microsoft.com/en-us/visualstudio/ide/find-and-fix-code-errors#review-the-error-list) in Visual Studio to see all compiler warnings and errors.
-
-If a compiler error or warning message is not clear, [review errors details](https://docs.microsoft.com/en-us/visualstudio/ide/find-and-fix-code-errors#review-errors-in-detail) or google the error or warning code to get more information about the issue.
-
-
-## Task Checklist
-
-1. Rebuild the solution.
-2. Fix all compiler warnings and errors.
-3. Run all unit tests, make sure all unit tests completed successfully.
-
 
 ## See also
 
